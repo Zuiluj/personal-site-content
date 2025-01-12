@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "ff96ff1cdeb81051",
+    "type": "split",
+    "children": [
+      {
+        "id": "24aee9b39ed858cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc61c0da4c04eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/Hello World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello World"
+            }
+          },
+          {
+            "id": "14065394ce6b79d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Hollow Knight/01-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-12-2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33544b6ffea57008",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c48719fbb8e2ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b142d82c167447e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4836535cb6b6e05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "063faf2bb485be48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27905247faabc393",
+    "type": "split",
+    "children": [
+      {
+        "id": "1349e2695473ba57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dcf0e2bad172892",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journals/Hollow Knight/01-12-2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-12-2025"
+            }
+          },
+          {
+            "id": "4ee887a6933b39f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journals/Hollow Knight/01-12-2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-12-2025"
+            }
+          },
+          {
+            "id": "45422d67138ccefb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f5341d68fc5277f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journals/Hollow Knight/01-12-2025.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-12-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14065394ce6b79d9",
+  "lastOpenFiles": [
+    "Blogs/Hello World.md",
+    "README.md",
+    "Journals/Hollow Knight/01-12-2025.md",
+    "Journals/Hollow Knight",
+    "Journals",
+    "Blogs"
+  ]
+}

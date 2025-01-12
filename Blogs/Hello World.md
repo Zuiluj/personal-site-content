@@ -1,0 +1,1 @@
+This will serve as a collection of my thoughts that may help others or even just be entertaining to read at least.
