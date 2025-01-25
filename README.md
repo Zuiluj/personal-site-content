@@ -7,8 +7,8 @@ Start with 3 dashes and ends with it:
 ---
 title: string
 slug: string
-dateCreated: JS timestring
-dateUpdated: JS timestring
+dateTimeCreated: JS timestring
+dateTimeUpdated: JS timestring
 tags: string[]
 ---
 ```

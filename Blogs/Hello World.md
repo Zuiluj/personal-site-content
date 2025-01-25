@@ -1,8 +1,8 @@
 ---
 title: Hello World
 slug: hello-world
-dateCreated: 2025-01-25T09:03:23.296Z
-dateUpdated: 2025-01-25T09:03:23.296Z
+dateTimeCreated: 2025-01-25T09:03:23.296Z
+dateTimeUpdated: 2025-01-25T09:03:23.296Z
 tags:
   - general
 ---
