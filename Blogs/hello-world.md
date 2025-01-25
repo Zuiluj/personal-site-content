@@ -7,4 +7,4 @@ tags:
   - general
 ---
 This will serve as a collection of my thoughts that may help others or even just be entertaining to read at least.
-![[Pasted image 20250125185401.png]]
+![[assets/Pasted image 20250125185401.png]]
