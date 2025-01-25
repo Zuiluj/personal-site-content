@@ -6,5 +6,6 @@ dateTimeUpdated: 2025-01-25T09:03:23.296Z
 tags:
   - general
 ---
-This will serve as a collection of my thoughts that may help others or even just be entertaining to read at least.
-![cat](./assets/Pasted%20image%2020250125185401.png)
+This will serve as a collection of my thoughts that may help others or even just be entertaining to read at least. 
+
+![cat](https://raw.githubusercontent.com/Zuiluj/personal-site-content/refs/heads/main/Blogs/assets/Pasted%20image%2020250125185401.png)
