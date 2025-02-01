@@ -10,6 +10,6 @@ slug: string
 dateTimeCreated: JS timestring
 dateTimeUpdated: JS timestring
 tags: string[]
-imageCover: string
+coverImage: string
 ---
 ```
