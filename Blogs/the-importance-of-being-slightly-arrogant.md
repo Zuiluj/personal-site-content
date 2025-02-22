@@ -1,11 +1,11 @@
 ---
-title: The Importance of Being Arrogant
-slug: the-importance-of-being-arrogant
+title: The Importance of Being Slightly Arrogant
+slug: the-importance-of-being-slightly-arrogant
 tags:
   - general
 coverImage: 
-dateTimeCreated: 
-dateTimeUpdated:
+dateTimeCreated: 2025-02-22T15:24:52.205Z
+dateTimeUpdated: 2025-02-22T15:24:52.205Z
 ---
 # Arrogance as a First Step
 
@@ -24,7 +24,7 @@ It’s more of using “ah, if they can do it, I can too” feeling as a courage
 
 ## Humility as a cure for the other end of the spectrum
 
-> Humility is not thinking less of yourself, but thinking of yourself less. - C.S. Lewis
+*Humility is not thinking less of yourself, but thinking of yourself less. - C.S. Lewis*
 
 If you somehow went all the way to the end of being fully arrogant and stopped taking in feedbacks entirely. It is a good way to anchor yourself in the reality of _where you are_. Sometimes, we overcorrect ourselves to the point of losing our identity because we were so focused on reaching the end of a certain spectrum, in this case, it is the arrogance. Assessing yourself by asking good questions is a way to anchor your identity to the life you want to live in. Some questions could look like:
 
