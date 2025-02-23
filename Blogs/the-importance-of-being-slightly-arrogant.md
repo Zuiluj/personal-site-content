@@ -7,7 +7,7 @@ coverImage:
 dateTimeCreated: 2025-02-22T15:24:52.205Z
 dateTimeUpdated: 2025-02-22T15:24:52.205Z
 ---
-# Arrogance as a First Step
+## Arrogance as a First Step
 
 The problem with being passive is that we do not expose ourselves to the world much. In terms of being better, in terms of having people see your work, so you can be open to feedback. In this case, we are using arrogance as a ticket to being better for ourselves. It is not to fool ourselves that we are the best, it is not to fool ourselves to be perfect. **It is the importance of being a bit arrogant in order to expose ourselves rather than being scared as years go by.**
 
