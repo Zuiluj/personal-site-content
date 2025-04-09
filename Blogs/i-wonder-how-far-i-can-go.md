@@ -5,7 +5,7 @@ dateTimeCreated: 2025-04-09T16:03:22.170Z
 dateTimeUpdated: 2025-04-09T16:03:22.170Z
 tags:
   - general
-coverImage:
+coverImage: https://raw.githubusercontent.com/Zuiluj/personal-site-content/refs/heads/main/Blogs/assets/how-far-1.jpg
 ---
 ## Dreams and Visions
 
