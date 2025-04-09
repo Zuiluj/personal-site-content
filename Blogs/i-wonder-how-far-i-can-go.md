@@ -31,6 +31,7 @@ I attended an art class before where I learned a good piece of mindset in gainin
 
 It gave me a whole new way of thinking. I never really had confidence, I usually just wing it by throwing all my care out the windows, saying “screw it”, then winging the thing. Some days it does work, but it eventually made me ask myself: “Is it just gonna be like this every time?” In the end, I want to care, I want to try working hard on something I like. I may not have the greatest dream, nor the best vision in my work or output, but I still want to try. Maybe being myself is enough for this world?
 
+
 _In case you are curious what art class it was, it is “Post-realistic Digital Painting taught by Sinix Design in Brainstorm School Online”._
 
 ## Challenges
