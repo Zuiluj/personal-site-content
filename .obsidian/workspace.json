@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/hello-world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello-world"
-            }
-          },
-          {
-            "id": "216947a41c832445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Blogs/the-importance-of-being-slightly-arrogant.md",
                 "mode": "source",
                 "source": false
@@ -36,17 +22,17 @@
             }
           },
           {
-            "id": "14065394ce6b79d9",
+            "id": "91db4523530b940c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Hollow Knight/01-12-2025.md",
+                "file": "Blogs/i-wonder-how-far-i-can-go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-12-2025"
+              "title": "i-wonder-how-far-i-can-go"
             }
           }
         ],
@@ -193,17 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "216947a41c832445",
+  "active": "91db4523530b940c",
   "lastOpenFiles": [
-    "README.md",
     "Blogs/the-importance-of-being-slightly-arrogant.md",
+    "Blogs/i-wonder-how-far-i-can-go.md",
     "Blogs/hello-world.md",
     "Blogs/assets/Pasted image 20250125185401.png",
+    "Blogs/assets/how-far-1.jpg",
     "assets/Pasted.md",
+    "Blogs/art-is-wasteful.md",
+    "Journals/Hollow Knight/01-12-2025.md",
+    "README.md",
     "assets",
     "Blogs/assets",
     "Blogs/Pasted image 20250125185317.png",
-    "Journals/Hollow Knight/01-12-2025.md",
     "Artworks",
     "Journals/Hollow Knight",
     "Journals",
