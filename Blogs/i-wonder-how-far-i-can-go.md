@@ -15,9 +15,9 @@ These days, thinking of the future scares me so much. I do not know why. Maybe I
 
 _How capable am I?_
 
-Every commitment I currently have came from the things I was curious about. How does x work? Can I make it from this? Why does it do x? These questions came when I started dabbling in programming and art. It’s curiosity on top of curiosity that propelled me forward into making it a habit of creating or studying these things. It eventually turned into an everyday thing, it’s something that I can’t remove now; Not until recently, I found out that I can be very frustrated on seeing much more skilled people than me. That’s the day I thought that I might be in here for a long time.
+Every commitment I currently have came from the things I was curious about. How does x work? Can I make it from this? Why does it do x? These questions came when I started dabbling in programming and art. It’s curiosity on top of curiosity that propelled me forward into making it a habit of creating or studying these things. It eventually turned into an everyday thing, it’s something that I can’t remove now, I also found out that I can be very frustrated on seeing much more skilled people than me. That’s the day I thought that I might be in here for a long time.
 
-A good advice I got is, not everything has to be the grandest thing, or the grandest vision when it comes to the future of what you are doing. You just have to pour your best every single day, remembering that frustration, giving your 100% of the day, in every instance you start working on something.
+A good advice I got is, not everything has to be the grandest thing, or the grandest vision when it comes to the future of what you are doing. You just have to pour your 100% every single day, remembering that frustration, in every instance you start working on something.
 
 _How far can I go?_
 
@@ -31,10 +31,7 @@ I attended an art class before where I learned a good piece of mindset in gainin
 
 It gave me a whole new way of thinking. I never really had confidence, I usually just wing it by throwing all my care out the windows, saying “screw it”, then winging the thing. Some days it does work, but it eventually made me ask myself: “Is it just gonna be like this every time?” In the end, I want to care, I want to try working hard on something I like. I may not have the greatest dream, nor the best vision in my work or output, but I still want to try. Maybe being myself is enough for this world?
 
-
-
 _In case you are curious what art class it was, it is “Post-realistic Digital Painting taught by Sinix Design in Brainstorm School Online”._
-
 
 ## Challenges
 
