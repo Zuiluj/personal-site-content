@@ -11,6 +11,6 @@ tags:
   - reinforcement-mechanisms
 coverImage:
 ---
-![](render-clothes-1.png)
+![render-clothes-2](https://raw.githubusercontent.com/Zuiluj/personal-site-content/refs/heads/main/Blogs/assets/render-clothes-2.png)
 
-![](render-clothes-2.png)
+![render-clothes](https://raw.githubusercontent.com/Zuiluj/personal-site-content/refs/heads/main/Blogs/assets/render-clothes-1.png)
