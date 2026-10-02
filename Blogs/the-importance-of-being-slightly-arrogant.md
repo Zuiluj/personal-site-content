@@ -2,8 +2,8 @@
 title: The Importance of Being Slightly Arrogant
 slug: the-importance-of-being-slightly-arrogant
 tags:
-  - general
-coverImage: 
+  - journal
+coverImage:
 dateTimeCreated: 2025-02-22T15:24:52.205Z
 dateTimeUpdated: 2025-02-23T06:01:12.602Z
 ---
