@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/rendering-Clothes-painting-process.md",
+                "file": "Blogs/i-love-painting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rendering-Clothes-painting-process"
+              "title": "i-love-painting"
             }
           }
         ],
@@ -212,14 +212,16 @@
   },
   "active": "c1201b09cc34a0be",
   "lastOpenFiles": [
-    "Blogs/i-wonder-how-far-i-can-go.md",
     "Blogs/rendering-Clothes-painting-process.md",
+    "Blogs/the-importance-of-being-slightly-arrogant.md",
+    "Blogs/i-wonder-how-far-i-can-go.md",
     "Blogs/assets/render-clothes-1.png",
+    "Blogs/assets/i-love-painting-1.png",
     "Blogs/assets/how-far-1.jpg",
+    "Blogs/i-love-painting.md",
     "Blogs/assets/render-clothes-2.png",
     "Blogs/energy-ledger-instead-of-time-blocking.md",
     "Blogs/feelings-are-the-language-for-oneself-actions-are-the-language-of-the-world.md",
-    "Blogs/the-importance-of-being-slightly-arrogant.md",
     "Blogs/to-lengthen-stamina-for-a-process-juggle-different-problems.md",
     "Blogs/the-only-thing-I-will-optimize-for-is-for-fun.md",
     "Templates/Blog Template.md",
